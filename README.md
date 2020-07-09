@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Joel. I design tools for people to use.
+
+- 🔭 I’m currently working on GraphQL tooling at [Apollo GraphQL](https://www.apollographql.com/careers/team).
+- 🌱 I’m currently learning more about the [history of racial injustice](https://www.gettoby.com/p/7srvta2lydtp) toward non-white people in America, and how to be an everyday peacemaker by [mending the divides](https://globalimmerse.org/).
+- 💬 Ask me about...anything you want, in my [AMA repo](https://github.com/jglovier/ama).
+- 📫 How to reach me: jglovier@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: The poles of Uranus get 42 years of sunlight followed by 42 years of darkness.
 
 <!--
 **jglovier/jglovier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
