@@ -5,7 +5,7 @@
 - 💬 Ask me about...anything you want, in my [AMA repo](https://github.com/jglovier/ama).
 - 📫 How to reach me: jglovier@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The poles of Uranus get 42 years of sunlight followed by 42 years of darkness.
+- ⚡ Fun fact: The poles of Uranus get 42 years of sunlight:full_moon: followed by 42 years of darkness:new_moon:.
 
 <!--
 **jglovier/jglovier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
