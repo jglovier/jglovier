@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/jglovier/jglovier/blob/main/joel-juggling.png" alt="Cartoon illustration of Joel juggling balls that represent user experience, business goals, and technology" width=400px />
 
-### Hi there 👋, I'm Joel. I design tools for people to use.
+### Hi there 👋, I'm Joel. I design workflow tools for people.
 
 - 🔭 I’m currently working on GraphQL tooling at [Apollo GraphQL](https://www.apollographql.com/careers/team).
 - 🌱 I’m currently learning more about the [history of racial injustice](https://www.gettoby.com/p/7srvta2lydtp) toward non-white people in America, and how to be an everyday peacemaker by [mending the divides](https://globalimmerse.org/).
