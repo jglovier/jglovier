@@ -2,8 +2,8 @@
 
 ### Hi there 👋, I'm Joel. I design workflow tools for people.
 
-- 🔭 I’m currently working on GraphQL tooling at [Apollo GraphQL](https://www.apollographql.com/careers/team).
-- 🌱 I’m currently learning more about the [history of racial injustice](https://www.gettoby.com/p/7srvta2lydtp) toward non-white people in America, and how to be an everyday peacemaker by [mending the divides](https://globalimmerse.org/).
+- 🔭 I’m currently looking for my next role! I'm seeking a role as a Senior or Staff Product Designer on a mature team that I can learn from and contribute to, and work on interesting problems with meaningful impact for real humans.
+- 🌱 I’m currently learning more about [Trauma Stewardship](https://amzn.to/3u7Kvu1).
 - 💬 Ask me about...anything you want, in my [AMA repo](https://github.com/jglovier/ama).
 - 📫 How to reach me: jglovier@gmail.com
 - 😄 Pronouns: he/him
