@@ -2,8 +2,7 @@
 
 ### Hi there 👋, I'm Joel. I design workflow tools for people.
 
-- 🔭 I’m currently looking for my next role! I'm seeking a role as a Senior or Staff Product Designer on a mature team that I can learn from and contribute to, and work on interesting problems with meaningful impact for real humans.
-- 🌱 I’m currently learning more about [Trauma Stewardship](https://amzn.to/3u7Kvu1).
+- 🔭 I’m a Staff Product Designer at Okta where I am part of the Developer Platform team.
 - 💬 Ask me about...anything you want, in my [AMA repo](https://github.com/jglovier/ama).
 - 📫 How to reach me: jglovier@gmail.com
 - 😄 Pronouns: he/him
