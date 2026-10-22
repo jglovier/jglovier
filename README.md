@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Joel. I design workflow tools for people.
 
-- 🔭 I’m leading design at Gamaliel AI (AI for Bible study).
+- 🔭 I’m leading design at [Gamaliel AI](https://gamaliel.ai/) (AI for Bible study).
 - 💬 Ask me about...anything you want, in my [AMA repo](https://github.com/jglovier/ama).
-- ⚡ Question: Which bear is best?
+- ⚡ Question: What do you call a beehive with no exit? Un-bee-leavable. 🐝
 
 <!--
 **jglovier/jglovier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
